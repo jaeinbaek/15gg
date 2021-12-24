@@ -65,7 +65,7 @@ function Search() {
   return (
     <form
       onSubmit={handleSubmit(onSubmit)}
-      className="flex flex-1 items-center justify-center"
+      className="flex flex-1 items-center justify-center "
     >
       <div className="relative w-full max-w-[850px] flex items-center justify-center">
         <div className="absolute left-0 text-9xl text-[#47C2A4] text-right md:hidden xl:block">
